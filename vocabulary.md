@@ -45,7 +45,8 @@ if...else| ahaha |
 
 vocabulary|example|link
 ----|----|----
-| A computer monitor or a computer `display` is an electronic visual display for computers. | [https://en.wikipedia.org/wiki/Computer_monitor](https://en.wikipedia.org/wiki/Computer_monitor)
+monitor | A computer monitor or a computer `display` is an electronic visual display for computers. | [https://en.wikipedia.org/wiki/Computer_monitor](https://en.wikipedia.org/wiki/Computer_monitor)
+error | Display errors could be turned off in the php.ini or your Apache config file. | [http://stackoverflow.com/questions/5438060/showing-all-errors-and-warnings](http://stackoverflow.com/questions/5438060/showing-all-errors-and-warnings)
 
 # 8. set
 - set v. 设置，n. 集合
