@@ -17,7 +17,7 @@ command pattern | In object-oriented programming, the `command` pattern is a beh
 
 vocabulary|example|link
 ----|----|----
-| In this section, you will learn how to `use` the Hadoop API to write a MapReduce program in Java. | [http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/](http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/)
+how to use | In this section, you will learn how to `use` the Hadoop API to write a MapReduce program in Java. | [http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/](http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/)
 
 # 4. program
 - program n. 程序
