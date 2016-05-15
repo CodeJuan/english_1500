@@ -40,10 +40,11 @@
 
 # 9. key
 - key n. 键，关键字，关键码
-- map key value: A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash. 
-- [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database)
-- access key: In a web browser, an access key or accesskey allows a computer user to immediately jump to a specific part of a web page via the keyboard.
-- [https://en.wikipedia.org/wiki/Access_key](https://en.wikipedia.org/wiki/Access_key)
+
+词组|例子|链
+----|----|----
+key-value|A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash. | [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database)
+access key | In a web browser, an access key or accesskey allows a computer user to immediately jump to a specific part of a web page via the keyboard. | [https://en.wikipedia.org/wiki/Access_key](https://en.wikipedia.org/wiki/Access_key)
 
 # 10. list
 - list n. 列表，显示，v. 打印
