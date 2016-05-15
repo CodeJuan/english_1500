@@ -22,3 +22,18 @@
 - line n. (数据，程序)行，线路
 - I understand that the processor brings data into the cache via `cache lines`
 - [http://stackoverflow.com/questions/3928995/how-do-cache-lines-work](http://stackoverflow.com/questions/3928995/how-do-cache-lines-work)
+
+# 6. if
+- if conj. 如果
+- if...else...ahaha
+
+# 7. display
+- display vt. 显示，显示器
+- A computer monitor or a computer `display` is an electronic visual display for computers. 
+- [https://en.wikipedia.org/wiki/Computer_monitor](https://en.wikipedia.org/wiki/Computer_monitor)
+
+# 8. set
+- set v. 设置，n. 集合
+- setting ![](http://findicons.com/files/icons/88/mac/256/setting.png)
+- set Java - The Set Interface. A Set is a Collection that cannot contain duplicate elements. 
+- [http://www.tutorialspoint.com/java/java_set_interface.htm](http://www.tutorialspoint.com/java/java_set_interface.htm)
