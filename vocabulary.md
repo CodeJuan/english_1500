@@ -12,3 +12,13 @@
 - use v. 使用，用途
 - In this section, you will learn how to `use` the Hadoop API to write a MapReduce program in Java.
 - [http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/](http://hortonworks.com/hadoop-tutorial/introducing-apache-hadoop-developers/)
+
+# 4. program
+- program n. 程序
+- C (/ˈsiː/, as in the letter c) is a general-purpose, imperative computer` programming language`
+- [https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+# 5. line
+- line n. (数据，程序)行，线路
+- I understand that the processor brings data into the cache via `cache lines`
+- [http://stackoverflow.com/questions/3928995/how-do-cache-lines-work](http://stackoverflow.com/questions/3928995/how-do-cache-lines-work)
