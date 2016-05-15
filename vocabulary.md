@@ -44,7 +44,7 @@
 - [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database)
 - access key: In a web browser, an access key or accesskey allows a computer user to immediately jump to a specific part of a web page via the keyboard.
 - [https://en.wikipedia.org/wiki/Access_key](https://en.wikipedia.org/wiki/Access_key)
-- 
+
 # 10. list
 - list n. 列表，显示，v. 打印
 - ls: In computing, ls is a command to list files in Unix and Unix-like operating systems. 
