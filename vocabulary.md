@@ -34,14 +34,16 @@
 
 # 8. set
 - set v. 设置，n. 集合
-- setting ![](http://findicons.com/files/icons/88/mac/256/setting.png)
-- set Java - The Set Interface. A Set is a Collection that cannot contain duplicate elements. 
-- [http://www.tutorialspoint.com/java/java_set_interface.htm](http://www.tutorialspoint.com/java/java_set_interface.htm)
+
+vocabulary|example|link
+----|----|----
+setting | ![](http://findicons.com/files/icons/88/mac/256/setting.png)| 
+set Java| The Set Interface. A Set is a Collection that cannot contain duplicate elements. |[http://www.tutorialspoint.com/java/java_set_interface.htm](http://www.tutorialspoint.com/java/java_set_interface.htm)
 
 # 9. key
 - key n. 键，关键字，关键码
 
-词组|例子|链
+vocabulary|example|link
 ----|----|----
 key-value|A key-value store, or key-value database, is a data storage paradigm designed for storing, retrieving, and managing associative arrays, a data structure more commonly known today as a dictionary or hash. | [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database)
 access key | In a web browser, an access key or accesskey allows a computer user to immediately jump to a specific part of a web page via the keyboard. | [https://en.wikipedia.org/wiki/Access_key](https://en.wikipedia.org/wiki/Access_key)
