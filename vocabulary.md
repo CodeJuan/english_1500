@@ -121,3 +121,12 @@ directory n. 目录，索引簿
 vocabulary|example|link
 ----|----|----
 remove a directory | To remove a directory that contains other files or directories, use the following command | [http://www.computerhope.com/issues/ch000798.htm](http://www.computerhope.com/issues/ch000798.htm)
+
+# 18. from
+from prep. 从，来自，以来
+
+# 19. menu
+menu n. 菜单，目录
+
+# 20. option
+option n. 任选，选择，可选项
