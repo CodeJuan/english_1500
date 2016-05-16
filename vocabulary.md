@@ -100,3 +100,10 @@ format n. 格式
 vocabulary|example|link
 ----|----|----
 reformatting | IntelliJ IDEA lets you reformat source code to meet the requirements of your code style | [https://www.jetbrains.com/help/idea/2016.1/reformatting-source-code.html?origin=old_help](https://www.jetbrains.com/help/idea/2016.1/reformatting-source-code.html?origin=old_help)
+
+# 15. change
+change v. 更换，改变，变动
+
+vocabulary|example|link
+----|----|----
+change a password| To change a password on behalf of a user, first sign on or "su" to the "root" account. Then type, ``passwd user'' | [http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/changing-user-passwords.html](http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/changing-user-passwords.html)
