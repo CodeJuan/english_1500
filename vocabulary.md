@@ -75,7 +75,13 @@ java list | The List interface extends Collection and declares the behavior of a
 # 11. by
 - by prep. 凭，靠，沿
 
-
 vocabulary|example|link
 ----|----|----
 divide by zero | In computing, a program error may result from an attempt to divide by zero | [https://en.wikipedia.org/wiki/Division_by_zero](https://en.wikipedia.org/wiki/Division_by_zero)
+
+# 12. press
+- press v. 按，压
+
+vocabulary|example|link
+----|----|----
+press key | press any key to continue | 
