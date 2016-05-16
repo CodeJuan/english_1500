@@ -93,3 +93,10 @@ vocabulary|example|link
 ----|----|----
 with sth | DELETE request with Payload | [https://github.com/rest-client/rest-client/pull/98](https://github.com/rest-client/rest-client/pull/98)
 
+
+# 14. format
+format n. 格式
+
+vocabulary|example|link
+----|----|----
+reformatting | IntelliJ IDEA lets you reformat source code to meet the requirements of your code style | [https://www.jetbrains.com/help/idea/2016.1/reformatting-source-code.html?origin=old_help](https://www.jetbrains.com/help/idea/2016.1/reformatting-source-code.html?origin=old_help)
