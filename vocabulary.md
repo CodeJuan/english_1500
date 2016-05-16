@@ -114,3 +114,10 @@ cursor n. 光标
 vocabulary|example|link
 ----|----|----
 CSS cursor Property| | http://www.w3schools.com/cssref/pr_class_cursor.asp
+
+# 17. directory
+directory n. 目录，索引簿
+
+vocabulary|example|link
+----|----|----
+remove a directory | To remove a directory that contains other files or directories, use the following command | [http://www.computerhope.com/issues/ch000798.htm](http://www.computerhope.com/issues/ch000798.htm)
