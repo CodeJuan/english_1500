@@ -71,3 +71,11 @@ vocabulary|example|link
 ----|----|----
 ls | In computing, ls is a command to list files in Unix and Unix-like operating systems. | [https://en.wikipedia.org/wiki/Ls](https://en.wikipedia.org/wiki/Ls)
 java list | The List interface extends Collection and declares the behavior of a collection that stores a sequence of elements. | [http://www.tutorialspoint.com/java/java_list_interface.htm](http://www.tutorialspoint.com/java/java_list_interface.htm)
+
+# 11. by
+- by prep. 凭，靠，沿
+
+
+vocabulary|example|link
+----|----|----
+divide by zero | In computing, a program error may result from an attempt to divide by zero | [https://en.wikipedia.org/wiki/Division_by_zero](https://en.wikipedia.org/wiki/Division_by_zero)
