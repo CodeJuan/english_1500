@@ -85,3 +85,11 @@ divide by zero | In computing, a program error may result from an attempt to div
 vocabulary|example|link
 ----|----|----
 press key | press any key to continue | 
+
+# 13. with
+with prep. 用，与，随着
+
+vocabulary|example|link
+----|----|----
+with sth | DELETE request with Payload | [https://github.com/rest-client/rest-client/pull/98](https://github.com/rest-client/rest-client/pull/98)
+
