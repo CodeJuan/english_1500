@@ -125,8 +125,20 @@ remove a directory | To remove a directory that contains other files or director
 # 18. from
 from prep. 从，来自，以来
 
+vocabulary|example|link
+----|----|----
+copying files from one directory to another | When copying files from one directory to another you need to know for certain which directory is the current working directory. | https://www.st-andrews.ac.uk/ITS/training/unix/unix2.html
+
 # 19. menu
 menu n. 菜单，目录
 
+vocabulary|example|link
+----|----|----
+Start menu | The Start screen replaces the Start menu in Windows 8.1 and Windows RT 8.1. | [http://windows.microsoft.com/en-HK/windows-8/where-is-start-menu](http://windows.microsoft.com/en-HK/windows-8/where-is-start-menu)
+
 # 20. option
 option n. 任选，选择，可选项
+
+vocabulary|example|link
+----|----|----
+HTML option tag | The <option> tag can be used without any attributes, but you usually need the value attribute, which indicates what is sent to the server. | [http://www.w3schools.com/tags/tag_option.asp](http://www.w3schools.com/tags/tag_option.asp)
