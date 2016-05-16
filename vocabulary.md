@@ -107,3 +107,10 @@ change v. 更换，改变，变动
 vocabulary|example|link
 ----|----|----
 change a password| To change a password on behalf of a user, first sign on or "su" to the "root" account. Then type, ``passwd user'' | [http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/changing-user-passwords.html](http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/changing-user-passwords.html)
+
+# 16. cursor
+cursor n. 光标
+
+vocabulary|example|link
+----|----|----
+CSS cursor Property| | http://www.w3schools.com/cssref/pr_class_cursor.asp
