@@ -142,3 +142,25 @@ option n. 任选，选择，可选项
 vocabulary|example|link
 ----|----|----
 HTML option tag | The <option> tag can be used without any attributes, but you usually need the value attribute, which indicates what is sent to the server. | [http://www.w3schools.com/tags/tag_option.asp](http://www.w3schools.com/tags/tag_option.asp)
+
+
+# 21 character n. 字符，符号，特性
+
+
+# 22 current n. 电流
+
+# 23 type n. 型，类型；v. 打印
+
+# 24 screen n. 屏幕，屏；v. 屏蔽
+
+# 25 specify v. 指定，规定，确定
+
+# 26 move v. 移动
+
+# 27 disk n. 盘，磁盘
+
+# 28 text n. 正文，文本
+
+# 29 drive v. 驱动；n. 驱动器
+
+# 30 see v. 看，看出，查看
