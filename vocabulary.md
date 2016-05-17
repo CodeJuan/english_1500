@@ -146,6 +146,9 @@ HTML option tag | The <option> tag can be used without any attributes, but you u
 
 # 21 character n. 字符，符号，特性
 
+vocabulary|example|link
+----|----|----
+char | Examples of characters include letters, numerical digits, common punctuation marks (such as "." or "-"), and whitespace. | [https://en.wikipedia.org/wiki/Character_(computing)](https://en.wikipedia.org/wiki/Character_(computing))
 
 # 22 current n. 电流
 
