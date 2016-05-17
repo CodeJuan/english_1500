@@ -158,16 +158,44 @@ current working directory | I want to access my current working directory | [htt
 
 # 23 type n. 型，类型；v. 打印
 
+vocabulary|example|link
+----|----|----
+Type mismatch|Type mismatch: cannot convert int to byte| [http://stackoverflow.com/questions/81392/java-why-do-i-receive-the-error-message-type-mismatch-cannot-convert-int-to-b](http://stackoverflow.com/questions/81392/java-why-do-i-receive-the-error-message-type-mismatch-cannot-convert-int-to-b)
+
 # 24 screen n. 屏幕，屏；v. 屏蔽
+
+vocabulary|example|link
+----|----|----
+screen capture|Take a screen capture (print your screen)|[http://windows.microsoft.com/en-hk/windows/take-screen-capture-print-screen#take-screen-capture-print-screen=windows-8](http://windows.microsoft.com/en-hk/windows/take-screen-capture-print-screen#take-screen-capture-print-screen=windows-8)
 
 # 25 specify v. 指定，规定，确定
 
+vocabulary|example|link
+----|----|----
+specified port | tcp - how to connect ssh 'with' specified port? | [http://unix.stackexchange.com/questions/138850/how-to-connect-ssh-with-specified-port](http://unix.stackexchange.com/questions/138850/how-to-connect-ssh-with-specified-port)
+
 # 26 move v. 移动
+
+vocabulary|example|link
+----|----|----
+mouse move event|Execute a JavaScript when moving the mouse pointer over a <div> element:|[http://www.w3schools.com/jsref/event_onmousemove.asp](http://www.w3schools.com/jsref/event_onmousemove.asp)
 
 # 27 disk n. 盘，磁盘
 
+vocabulary|example|link
+----|----|----
+
 # 28 text n. 正文，文本
+
+vocabulary|example|link
+----|----|----
 
 # 29 drive v. 驱动；n. 驱动器
 
+vocabulary|example|link
+----|----|----
+
 # 30 see v. 看，看出，查看
+
+vocabulary|example|link
+----|----|----
