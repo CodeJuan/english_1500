@@ -150,7 +150,11 @@ vocabulary|example|link
 ----|----|----
 char | Examples of characters include letters, numerical digits, common punctuation marks (such as "." or "-"), and whitespace. | [https://en.wikipedia.org/wiki/Character_(computing)](https://en.wikipedia.org/wiki/Character_(computing))
 
-# 22 current n. 电流
+# 22 current n. 电流 adj. 当前的 
+
+vocabulary|example|link
+----|----|----
+current working directory | I want to access my current working directory | [http://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java](http://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java)
 
 # 23 type n. 型，类型；v. 打印
 
