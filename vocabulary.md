@@ -184,18 +184,22 @@ mouse move event|Execute a JavaScript when moving the mouse pointer over a <div>
 
 vocabulary|example|link
 ----|----|----
+Disk Space Usage|The ‘df‘ command stand for “disk filesystem“, it is used to get full summary of available and used disk space usage of file system on Linux system. | http://www.tecmint.com/how-to-check-disk-space-in-linux/
 
 # 28 text n. 正文，文本
 
 vocabulary|example|link
 ----|----|----
+Content-Type:text/plain|The text Content-Type is intended for sending material which is principally textual in form. It is the default Content- Type.|[https://www.w3.org/Protocols/rfc1341/7_1_Text.html](https://www.w3.org/Protocols/rfc1341/7_1_Text.html)
 
 # 29 drive v. 驱动；n. 驱动器
 
 vocabulary|example|link
 ----|----|----
+disk drive|A disk drive is a device implementing such a storage mechanism.|[https://en.wikipedia.org/wiki/Disk_storage](https://en.wikipedia.org/wiki/Disk_storage)
 
 # 30 see v. 看，看出，查看
 
 vocabulary|example|link
 ----|----|----
+see | See details about your computer's performance using Task Manager | [http://windows.microsoft.com/en-hk/windows/see-details-computers-performance-task-manager](http://windows.microsoft.com/en-hk/windows/see-details-computers-performance-task-manager)
