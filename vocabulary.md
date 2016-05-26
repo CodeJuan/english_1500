@@ -203,3 +203,25 @@ disk drive|A disk drive is a device implementing such a storage mechanism.|[http
 vocabulary|example|link
 ----|----|----
 see | See details about your computer's performance using Task Manager | [http://windows.microsoft.com/en-hk/windows/see-details-computers-performance-task-manager](http://windows.microsoft.com/en-hk/windows/see-details-computers-performance-task-manager)
+
+
+# 31 name n. 名，名称；vt. 命名
+
+# 32 record n. 记录
+
+# 33 box n. 箱，匣，(逻辑)框
+
+# 34 database n. 数据库
+
+# 35 help v. & n. 帮助
+
+# 36 memory n. 记忆存储，存储器
+
+# 37 which pron. 哪个，a. 那一个
+
+
+# 38 all a. 全，全部；ad. 完全
+
+# 39 on ad. 接通，导电，开
+
+# 40 copy n. 复制，v. 拷贝
