@@ -274,26 +274,30 @@ scp | Secure copy or SCP is a means of securely transferring computer files betw
 
 vocabulary|example|link
 ----|----|----
+shell script | A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. | [https://en.wikipedia.org/wiki/Shell_script](https://en.wikipedia.org/wiki/Shell_script)
 
 # 42 delete vt. 删除，删去，作废
 
 vocabulary|example|link
 ----|----|----
+delete file | How do I delete a file, directory, or folder? | [http://www.computerhope.com/issues/ch000743.htm](http://www.computerhope.com/issues/ch000743.htm)
 
 # 43 enter v. 键入，送入
 
 vocabulary|example|link
 ----|----|----
+enter key | On computer keyboards, the enter key (or the return key on Macs and most Sun Workstations) in most cases causes a command line, window form, or dialog box to operate its default function. | ![https://en.wikipedia.org/wiki/Enter_key](http://3.bp.blogspot.com/-7VPC3OteLMA/UP9mCWDdW-I/AAAAAAAABYk/opHIzriyV1s/s1600/disable_enter_key_press_event_submitting_form.jpg)
 
 # 44 margin n. 余量，边缘，边际
 
 vocabulary|example|link
 ----|----|----
-
+CSS Margin Properties | The CSS margin properties are used to generate space around elements. | [http://www.w3schools.com/css/css_margin.asp](http://www.w3schools.com/css/css_margin.asp)
 # 45 mark n. 标记；vt. 加标记
 
 vocabulary|example|link
 ----|----|----
+Concurrent Mark Sweep (CMS) Collector | The Concurrent Mark Sweep (CMS) collector is designed for applications that prefer shorter garbage collection pauses and that can afford to share processor resources with the garbage collector while the application is running.  | [https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/cms.html](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/cms.html)
 
 # 46 also ad. & conj. 也，亦，还
 
@@ -304,18 +308,22 @@ vocabulary|example|link
 
 vocabulary|example|link
 ----|----|----
+do while | The while and do-while Statements | [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 
 # 48 information n. 信息，情报
 
 vocabulary|example|link
 ----|----|----
+System Information | System Information (also known as msinfo32.exe) shows details about your computer's hardware configuration, computer components, and software, including drivers. | [http://windows.microsoft.com/en-hk/windows/what-is-system-information#1TC=windows-7](http://windows.microsoft.com/en-hk/windows/what-is-system-information#1TC=windows-7)
 
 # 49 choose v. 挑选，选择，选定
 
 vocabulary|example|link
 ----|----|----
+choose file | How to change “choose file” into “Browse” | [http://stackoverflow.com/questions/5281430/how-to-change-choose-file-into-browse](http://stackoverflow.com/questions/5281430/how-to-change-choose-file-into-browse)
 
 # 50 select vt. 选择
 
 vocabulary|example|link
 ----|----|----
+SQL SELECT | The SQL SELECT statement returns a result set of records from one or more tables | [https://en.wikipedia.org/wiki/Select_(SQL)](https://en.wikipedia.org/wiki/Select_(SQL))
