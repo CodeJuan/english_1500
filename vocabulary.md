@@ -268,3 +268,54 @@ vocabulary|example|link
 vocabulary|example|link
 ----|----|----
 scp | Secure copy or SCP is a means of securely transferring computer files between a local host and a remote host or between two remote hosts. It is based on the Secure Shell (SSH) protocol | [https://en.wikipedia.org/wiki/Secure_copy](https://en.wikipedia.org/wiki/Secure_copy)
+
+
+# 41 shell n. 壳，外壳
+
+vocabulary|example|link
+----|----|----
+
+# 42 delete vt. 删除，删去，作废
+
+vocabulary|example|link
+----|----|----
+
+# 43 enter v. 键入，送入
+
+vocabulary|example|link
+----|----|----
+
+# 44 margin n. 余量，边缘，边际
+
+vocabulary|example|link
+----|----|----
+
+# 45 mark n. 标记；vt. 加标记
+
+vocabulary|example|link
+----|----|----
+
+# 46 also ad. & conj. 也，亦，还
+
+vocabulary|example|link
+----|----|----
+
+# 47 do v. 做，干；n. 循环
+
+vocabulary|example|link
+----|----|----
+
+# 48 information n. 信息，情报
+
+vocabulary|example|link
+----|----|----
+
+# 49 choose v. 挑选，选择，选定
+
+vocabulary|example|link
+----|----|----
+
+# 50 select vt. 选择
+
+vocabulary|example|link
+----|----|----
