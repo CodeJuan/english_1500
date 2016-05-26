@@ -207,21 +207,64 @@ see | See details about your computer's performance using Task Manager | [http:/
 
 # 31 name n. 名，名称；vt. 命名
 
+vocabulary|example|link
+----|----|----
+naming|There are only two hard things in Computer Science: cache invalidation and naming things|[http://martinfowler.com/bliki/TwoHardThings.html](http://martinfowler.com/bliki/TwoHardThings.html)
+
+
 # 32 record n. 记录
+
+vocabulary|example|link
+----|----|----
+record | In relational database management systems, records are called tuples | [http://www.webopedia.com/TERM/R/record.html](http://www.webopedia.com/TERM/R/record.html)
+
 
 # 33 box n. 箱，匣，(逻辑)框
 
+vocabulary|example|link
+----|----|----
+black box | For example, in a black box test on a software design the tester only knows the inputs and what the expected outcomes should be and not how the program arrives at those outputs | [http://www.webopedia.com/TERM/B/Black_Box_Testing.html](http://www.webopedia.com/TERM/B/Black_Box_Testing.html)
+
+
 # 34 database n. 数据库
+
+vocabulary|example|link
+----|----|----
+MyBatis|MyBatis lets you use all your database functionality like stored procedures | [https://en.wikipedia.org/wiki/MyBatis](https://en.wikipedia.org/wiki/MyBatis)
 
 # 35 help v. & n. 帮助
 
+vocabulary|example|link
+----|----|----
+help key | Why F1 is the default help key? | [http://ux.stackexchange.com/questions/39440/why-f1-is-the-default-help-key](http://ux.stackexchange.com/questions/39440/why-f1-is-the-default-help-key)
+
 # 36 memory n. 记忆存储，存储器
 
+vocabulary|example|link
+----|----|----
+Allocate memory block | Allocates a block of size bytes of memory, returning a pointer to the beginning of the block. | [http://www.cplusplus.com/reference/cstdlib/malloc/](http://www.cplusplus.com/reference/cstdlib/malloc/)
+
+
 # 37 which pron. 哪个，a. 那一个
+
+vocabulary|example|link
+----|----|----
 
 
 # 38 all a. 全，全部；ad. 完全
 
+vocabulary|example|link
+----|----|----
+removeAll| Removes from this list all of its elements that are contained in the specified collection (optional operation). | [https://docs.oracle.com/javase/7/docs/api/java/util/List.html](https://docs.oracle.com/javase/7/docs/api/java/util/List.html)
+
+
 # 39 on ad. 接通，导电，开
 
+vocabulary|example|link
+----|----|----
+
 # 40 copy n. 复制，v. 拷贝
+
+vocabulary|example|link
+----|----|----
+scp | Secure copy or SCP is a means of securely transferring computer files between a local host and a remote host or between two remote hosts. It is based on the Secure Shell (SSH) protocol | [https://en.wikipedia.org/wiki/Secure_copy](https://en.wikipedia.org/wiki/Secure_copy)
