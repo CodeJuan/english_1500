@@ -330,43 +330,82 @@ SQL SELECT | The SQL SELECT statement returns a result set of records from one o
 
 
 # 51 group n. 组，群
-
+unix user group
 
 # 52 first a. & ad. & n. 第一，首先
+get first element
 
 # 53 field n. 字段，域，栏，场
+field column 字段，列
 
 # 54 procedure n. 过程，程序，工序
+Create a Stored Procedure 存储过程
 
 # 55 print v. 打印，印刷
+println
 
 # 56 return v. 返回，回送
+haha
 
 # 57 number n. 数字，号码；vt. 编号
+number 1
 
 # 58 selected a. 精选的
+好像沃尔玛的衣服就是这个牌子？
 
 # 59 want v. 需要，应该，缺少
+want to do sth.
 
 # 60 window n. 窗口
-
+window windows
 
 # 61 message n. 信息，消息，电文
+receive a message
+leave a message
 
 # 62 dialog n. & vt. 对话
+Dialog Boxe
 
 # 63 example n. 例子，实例
+for example
 
 # 64 create vt. 创立，建立
+create table
 
 # 65 insert vt. 插入
+INSERT INTO 表名称 VALUES (值1, 值2,....)
 
 # 66 related a. 相关的
+stackoverflow上有related tags
 
 # 67 item n. 项，项目，条款
+delete item
+show item
 
 # 68 edit vt. 编辑，编排，编篡
+edit plus
 
 # 69 marked a. 有记号的
 
+
 # 70 area n. (区)域，面积，方面
+
+# 71 parameter n. 参数，参变量
+
+# 72 then ad. & conj. 那时，则
+
+# 73 variable a. 可变的；n. 变量
+
+# 74 tab n. 制表键
+
+# 75 up ad. 上，向上，a. 高的
+
+# 76 string n. 行，字符串
+
+# 77 each a. & ad. 各(自)，每个
+
+# 78 active a. 激活的，活动的
+
+# 79 topic n. 题目，论题
+
+# 80 start v. 起动，开始，启动
