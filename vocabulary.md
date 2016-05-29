@@ -386,26 +386,40 @@ show item
 edit plus
 
 # 69 marked a. 有记号的
+Instances that are not live (dereferenced) are marked for garbage collection.
+GC有标记清除
 
 
 # 70 area n. (区)域，面积，方面
+client area 某个国外网站的会员中心是这个单词
 
 # 71 parameter n. 参数，参变量
+函数的参数
+谷歌编程规范里提到: pass function parameters by reference or pointer instead of by value
 
 # 72 then ad. & conj. 那时，则
+if then
 
 # 73 variable a. 可变的；n. 变量
+很多语言可以用var来声明变量，其实就是variable的缩写
 
 # 74 tab n. 制表键
+经常用\t，还记得\n吗？
 
 # 75 up ad. 上，向上，a. 高的
+up to you
 
 # 76 string n. 行，字符串
+string builder
 
 # 77 each a. & ad. 各(自)，每个
+for each
 
 # 78 active a. 激活的，活动的
+active
 
 # 79 topic n. 题目，论题
+消息队列有个概念叫topic
 
 # 80 start v. 起动，开始，启动
+ubuntu启动一个service： service start
