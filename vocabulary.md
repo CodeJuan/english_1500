@@ -416,7 +416,7 @@ string builder
 for each
 
 # 78 active a. 激活的，活动的
-active
+Activate Windows on this computer
 
 # 79 topic n. 题目，论题
 消息队列有个概念叫topic
