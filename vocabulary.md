@@ -327,3 +327,46 @@ choose file | How to change “choose file” into “Browse” | [http://stacko
 vocabulary|example|link
 ----|----|----
 SQL SELECT | The SQL SELECT statement returns a result set of records from one or more tables | [https://en.wikipedia.org/wiki/Select_(SQL)](https://en.wikipedia.org/wiki/Select_(SQL))
+
+
+# 51 group n. 组，群
+
+
+# 52 first a. & ad. & n. 第一，首先
+
+# 53 field n. 字段，域，栏，场
+
+# 54 procedure n. 过程，程序，工序
+
+# 55 print v. 打印，印刷
+
+# 56 return v. 返回，回送
+
+# 57 number n. 数字，号码；vt. 编号
+
+# 58 selected a. 精选的
+
+# 59 want v. 需要，应该，缺少
+
+# 60 window n. 窗口
+
+
+# 61 message n. 信息，消息，电文
+
+# 62 dialog n. & vt. 对话
+
+# 63 example n. 例子，实例
+
+# 64 create vt. 创立，建立
+
+# 65 insert vt. 插入
+
+# 66 related a. 相关的
+
+# 67 item n. 项，项目，条款
+
+# 68 edit vt. 编辑，编排，编篡
+
+# 69 marked a. 有记号的
+
+# 70 area n. (区)域，面积，方面
