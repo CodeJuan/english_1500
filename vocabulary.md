@@ -526,18 +526,40 @@ down
 # 110 task n. 任务；v. 派给…任务
 tasking 软件开发最难的事情之一，就是tasking，划分任务
 
+# 111 view n. & v. 视图，景象
+SQL里有view这个概念
 
+# 112 switch n. & v. 开关，转换，切换
+switch on/off
 
-view n. & v. 视图，景象
-switch n. & v. 开关，转换，切换
-include vt. 包括，包含
-get v. 得到，获得，取
-default v. 缺省，预置，约定
-structure n. 结构，构造，构件
-into prep. 向内，进入
-path n. 路径，通路，轨道
-blank n. 空白，间隔
-open v. 打开，开启，断开
+# 113 include vt. 包括，包含
+还记得C/C++里的头文件吗？
+
+# 114 get v. 得到，获得，取
+GET POST
+
+# 115 default v. 缺省，预置，约定
+default setting
+switch case default不写default有些语言就会编译报错
+
+# 116 structure n. 结构，构造，构件
+C/C++的结构体啊
+
+# 117 into prep. 向内，进入
+SQL INSERT INTO Statement
+
+# 118 path n. 路径，通路，轨道
+file path
+system path
+环境变量也有path
+
+# 119 blank n. 空白，间隔
+html - Inserting a blank table row
+
+# 120 open v. 打开，开启，断开
+open file
+open socket
+
 add v. & n. 加，增加，添
 enable vt. 启动，恢复正常操作
 operation n. 操作，运算，动作
