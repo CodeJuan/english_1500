@@ -560,23 +560,64 @@ html - Inserting a blank table row
 open file
 open socket
 
-add v. & n. 加，增加，添
-enable vt. 启动，恢复正常操作
-operation n. 操作，运算，动作
-erase v. 擦除，取消，删除
-filename n. 文件名
-search v. 检索，查询，搜索
-another a. 另一个，别的
-last a. & n. 最后(的)
-column n. 列，柱，栏
-after prep. & ad. 以后，后面
-prompt n. & v. 提示
-two n. & a. 二，两，双
-execute v. 实行，实施
-about ad. 关于，大约，附近
-escape v. 逃避，逸出，换码
-error n. 错误，误差，差错
-currently ad. 目前，现在
-extension n. 扩充，延伸
-same a. 同样的，相同的
-status n. 状态，态，状况
+# 121 add v. & n. 加，增加，添
+汇编里的ADD
+
+# 122 enable vt. 启动，恢复正常操作
+javascript - Disabling and enabling a html button
+
+# 123 operation n. 操作，运算，动作
+C++ operator关键字（重载操作符）
+
+
+# 124 erase v. 擦除，取消，删除
+C++ STL erase
+
+# 125 filename n. 文件名
+这个不用解释了吧
+
+# 126 search v. 检索，查询，搜索
+How To Use Find and Locate to Search for Files on a Linux VPS
+
+# 127 another a. 另一个，别的
+I have another question.
+
+# 128 last a. & n. 最后(的)
+java - How to get the last value of an ArrayList
+
+# 129 column n. 列，柱，栏
+database
+
+# 130 after prep. & ad. 以后，后面
+after that
+
+# 131 prompt n. & v. 提示
+在输入命令的时候，如果参数错了，就会出现提示
+
+# 132 two n. & a. 二，两，双
+22222
+
+# 133 execute v. 实行，实施
+An executable file is a file that is used to perform various functions or operations on a computer.
+可执行文件
+
+# 134 about ad. 关于，大约，附近
+be about to 还有即将的意思
+
+# 135 escape v. 逃避，逸出，换码
+eacape 常见的转义
+
+# 136 error n. 错误，误差，差错
+log.error("abcdefg")
+
+# 137 currently ad. 目前，现在
+currently
+
+# 138 extension n. 扩充，延伸
+在chrome输入 chrome://extensions/ 试试，扩展程序
+
+# 139 same a. 同样的，相同的
+the same
+
+# 140 status n. 状态，态，状况
+status code 404 not found
