@@ -490,16 +490,44 @@ endpoint, end-point or end point
 一般远程调用的服务提供函数都可以叫endpoint
 
 
-system n. 系统
-contain vt. 包含，包括
-time n. 时间；vt. 计时
-letter n. 字母，信
-data n. 数据
-setting n. 设置，调整
-desire v. & n. 期望
-position n. 位置；vt. 定位
-down ad. 落下，降低，减少
-task n. 任务；v. 派给…任务
+# 101 system n. 系统
+system load
+uptime 或者 top 可以看到load average
+
+# 102 contain vt. 包含，包括
+docker 容器 container
+
+# 103 time n. 时间；vt. 计时
+还记得time这个命令吗
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+
+# 104 letter n. 字母，信
+消息队列参考了邮局的做法，联想到信吧letter
+
+# 105 data n. 数据
+database
+
+# 106 setting n. 设置，调整
+setting 记得那个齿轮吗
+
+# 107 desire v. & n. 期望
+"What is Your Desired Salary?"
+找工作的时候，hr总会问你的期望薪水
+
+# 108 position n. 位置；vt. 定位
+找工作关于职位
+Position Title: Software Developer
+
+# 109 down ad. 落下，降低，减少
+down
+
+# 110 task n. 任务；v. 派给…任务
+tasking 软件开发最难的事情之一，就是tasking，划分任务
+
+
+
 view n. & v. 视图，景象
 switch n. & v. 开关，转换，切换
 include vt. 包括，包含
