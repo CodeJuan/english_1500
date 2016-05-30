@@ -423,3 +423,74 @@ Activate Windows on this computer
 
 # 80 start v. 起动，开始，启动
 ubuntu启动一个service： service start
+
+# 81 mode n. 态，方式，模
+
+# 82 selection n. 选择
+
+# 83 function n. 函数，功能，操作
+
+# 84 word n. 字(词)，单词
+
+# 85 make vt. 制造，形成，接通
+
+# 86 right a. 右边的，正确的
+
+# 87 value n. 值
+
+# 88 button n. 按钮
+
+# 89 index n. 索引，变址，指数
+
+# 90 without prep. 没有，在…以外
+
+appear vi. 出现，显现，好像
+left a. & n. 左边(的)
+save v. 保存
+next n. 下一次，a. 其次
+off ad. (设备)关着，脱离
+following a. 下列的，以下的
+control v. 控制，支配，管理
+only a. 唯一的，ad. 仅仅
+user n. 用户
+end n. 结束，终点，端点
+system n. 系统
+contain vt. 包含，包括
+time n. 时间；vt. 计时
+letter n. 字母，信
+data n. 数据
+setting n. 设置，调整
+desire v. & n. 期望
+position n. 位置；vt. 定位
+down ad. 落下，降低，减少
+task n. 任务；v. 派给…任务
+view n. & v. 视图，景象
+switch n. & v. 开关，转换，切换
+include vt. 包括，包含
+get v. 得到，获得，取
+default v. 缺省，预置，约定
+structure n. 结构，构造，构件
+into prep. 向内，进入
+path n. 路径，通路，轨道
+blank n. 空白，间隔
+open v. 打开，开启，断开
+add v. & n. 加，增加，添
+enable vt. 启动，恢复正常操作
+operation n. 操作，运算，动作
+erase v. 擦除，取消，删除
+filename n. 文件名
+search v. 检索，查询，搜索
+another a. 另一个，别的
+last a. & n. 最后(的)
+column n. 列，柱，栏
+after prep. & ad. 以后，后面
+prompt n. & v. 提示
+two n. & a. 二，两，双
+execute v. 实行，实施
+about ad. 关于，大约，附近
+escape v. 逃避，逸出，换码
+error n. 错误，误差，差错
+currently ad. 目前，现在
+extension n. 扩充，延伸
+same a. 同样的，相同的
+status n. 状态，态，状况
