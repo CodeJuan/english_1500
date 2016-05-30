@@ -457,16 +457,39 @@ index.html
 try programming for a day without Googling
 我们都是面向谷歌编程，如果不谷歌，还能编程吗？
 
-appear vi. 出现，显现，好像
-left a. & n. 左边(的)
-save v. 保存
-next n. 下一次，a. 其次
-off ad. (设备)关着，脱离
-following a. 下列的，以下的
-control v. 控制，支配，管理
-only a. 唯一的，ad. 仅仅
-user n. 用户
-end n. 结束，终点，端点
+# 91 appear vi. 出现，显现，好像
+appearance 外观，很多界面都有外观的选项，可以改字体，主题色等等
+
+# 92 left a. & n. 左边(的)
+left side
+
+# 93 save v. 保存
+save as 另存为
+
+# 94 next n. 下一次，a. 其次
+地铁上经常听到next station
+
+# 95 off ad. (设备)关着，脱离
+power off
+
+# 96 following a. 下列的，以下的
+英文的电子邮件时常会涉及到“具体情况/列表/名单如下”这样的表达法。这其实就是as follows 与following 的用法。总的来说是多用as follows，少用following 就好。
+
+# 97 control v. 控制，支配，管理
+out of control 失控
+
+# 98 only a. 唯一的，ad. 仅仅
+only one
+only you 还记得这个电影吗
+
+# 99 user n. 用户
+user group
+
+# 100 end n. 结束，终点，端点
+endpoint, end-point or end point
+一般远程调用的服务提供函数都可以叫endpoint
+
+
 system n. 系统
 contain vt. 包含，包括
 time n. 时间；vt. 计时
