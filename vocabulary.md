@@ -425,24 +425,37 @@ Activate Windows on this computer
 ubuntu启动一个service： service start
 
 # 81 mode n. 态，方式，模
+nokia开机显示local mode或test mode是怎么回事？
 
 # 82 selection n. 选择
+Sorry, no products matched your selection. Please choose a different combination
 
 # 83 function n. 函数，功能，操作
+functional programming 函数式编程
 
 # 84 word n. 字(词)，单词
+wordpress
 
 # 85 make vt. 制造，形成，接通
+makefile
+make
 
 # 86 right a. 右边的，正确的
+right side
 
 # 87 value n. 值
+the value of
 
 # 88 button n. 按钮
+press button
 
 # 89 index n. 索引，变址，指数
+index.html
+数组的下标i, 就是index
 
 # 90 without prep. 没有，在…以外
+try programming for a day without Googling
+我们都是面向谷歌编程，如果不谷歌，还能编程吗？
 
 appear vi. 出现，显现，好像
 left a. & n. 左边(的)
