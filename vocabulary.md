@@ -621,3 +621,36 @@ the same
 
 # 140 status n. 状态，态，状况
 status code 404 not found
+
+# 141. run v. 运行，运转，操作
+run server
+
+# 142. argument n. 变元，自变量
+argc
+argv
+
+# 143. statement n. 语句，陈述，命题
+statement
+
+# 144. shift v. 转义，换档，移位
+ctrl + shift
+
+# 145. store n. & vt. 存储，存储器
+storage
+
+
+# 146. scroll vt. 上滚(卷)；n. 纸卷
+scroll up
+
+# 147. replace vt. 替换，置换，代换
+replacement
+
+# 148. macro n. 宏，宏功能，宏指令
+macro
+`#define`
+
+# 149. page n. 页面，页，版面
+pagation
+
+# 150. quit v. 退出，结束
+quit
