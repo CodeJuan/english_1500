@@ -654,3 +654,39 @@ pagation
 
 # 150. quit v. 退出，结束
 quit
+
+# 151. define vt. 定义，规定，分辨
+使用了未定义的变量 undefined
+undefined variable errors
+
+# 152. reference n. & a. 参考；参考的
+著名的传值传引用
+What are the differences between a pointer variable and a reference variable in C++?
+
+# 153. other a. 别的，另外的
+other
+
+# 154. while conj. 当…的时候
+do...while
+while
+的区别
+
+# 155. pressing n. & a. 压制；紧急的
+上面有press button
+
+# 156. restore vt. 恢复，复原
+iCloud
+Restore your device from an iCloud or iTunes backup
+
+# 157. top n. 顶，尖端
+ton 1, top 3
+
+# 158. how ad. 如何，怎样，多么
+how to find the ...
+
+
+# 159. color n. 颜色，色彩，(彩)色
+color=#FFFFFF
+
+# 160. allow v. 允许，容许
+allow to do sth.
