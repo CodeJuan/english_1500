@@ -693,42 +693,122 @@ allow to do sth.
 
 
 # 161. block n. (字，信息，数据)块
+code block 博客里配置有代码块的着色
+
 # 162. decimal n. & a. 十进制；十进制的
+有个程序员笑话Oct 31 == Dec 25
+
 # 163. main a. 主要的
+static main
+
 # 164. definition n. 定义，确实，清晰度
+记得IDE都有快捷键 jump to declaration/definition
+
 # 165. between prep. 在…之间，中间
+
+
 # 166. optional a. 任选的，可选的
+做页面的时候，需要配置必选requied 可选optional
+
 # 167. date n. 日期
+print date
+
 # 168. remove v. 除去，移动
+remove the first element of
+
 # 169. arrow n. 箭头，指针
+
+
 # 170. label n. 标签，标号，标识符
+k8s对每个节点都加上label，通过它来进行特定的调度
+
 # 171. within prep. 在…以内
+
 # 172. issue v. 发行，出版，流出
+github 上 open issue
+
 # 173. different a. 不同的，各种各样的
+
+
 # 174. available a. 可用的
+high available  高可用
+
 # 175. returned a. 退回的
+return value
+
 # 176. associate v. 相联，联想，关联
+
+
 # 177. attribute n. 属性，标志，表征
+操作xml经常会用到set attribute
+
 # 178. dos 磁盘操作系统
+dos
+
 # 179. before prep. 以前，前，先
+
 # 180. order n. & vt. 指令，次序；排序
+写SQL 会用到order by
+
 # 181. modify vt. 修改，改变，变址
+modified by xxx
+
 # 182. array n. 数组，阵列
+array list
+
 # 183. mouse n. 鼠标器
+mouse move 事件
+
 # 184. note n. 注解，注释
+notepad++
+
 # 185. locate vt. 定位
+located at
+
 # 186. video n. 视频，电视
+video
+
 # 187. printer n. 打印机，印刷机
+打印机驱动
+
 # 188. bar n. 条，杆，棒
+side bar
+
 # 189. bottom n. & a. 底，基础；底下的
+bottom of
+
 # 190. carriage n. 滑架，托架
+
+
 # 191. content n. 含量，容量，内容
+contents of
+
 # 192. either a. & pron. 任何一个，各
+either or
+
 # 193. ok ad. & a. 对，好；全对
+
+
 # 194. space n. 空格键，空间
+work space
+
+
 # 195. editor n. 编辑程序
+nodepad
+
+
 # 196. exist vi. 存在，生存，有
+查看文件是否存在的函数 exist
+
 # 197. scope n. 范围，显示器
+
+
 # 198. paragraph n. 段(落)，节，短讯
+
+
 # 199. multi (词头)多
+multi line 多行
+
 # 200. clear v. 清除，弄干净
+clear 清空屏幕
+还有cls
