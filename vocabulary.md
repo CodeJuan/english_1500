@@ -690,3 +690,45 @@ color=#FFFFFF
 
 # 160. allow v. 允许，容许
 allow to do sth.
+
+
+# 161. block n. (字，信息，数据)块
+# 162. decimal n. & a. 十进制；十进制的
+# 163. main a. 主要的
+# 164. definition n. 定义，确实，清晰度
+# 165. between prep. 在…之间，中间
+# 166. optional a. 任选的，可选的
+# 167. date n. 日期
+# 168. remove v. 除去，移动
+# 169. arrow n. 箭头，指针
+# 170. label n. 标签，标号，标识符
+# 171. within prep. 在…以内
+# 172. issue v. 发行，出版，流出
+# 173. different a. 不同的，各种各样的
+# 174. available a. 可用的
+# 175. returned a. 退回的
+# 176. associate v. 相联，联想，关联
+# 177. attribute n. 属性，标志，表征
+# 178. dos 磁盘操作系统
+# 179. before prep. 以前，前，先
+# 180. order n. & vt. 指令，次序；排序
+# 181. modify vt. 修改，改变，变址
+# 182. array n. 数组，阵列
+# 183. mouse n. 鼠标器
+# 184. note n. 注解，注释
+# 185. locate vt. 定位
+# 186. video n. 视频，电视
+# 187. printer n. 打印机，印刷机
+# 188. bar n. 条，杆，棒
+# 189. bottom n. & a. 底，基础；底下的
+# 190. carriage n. 滑架，托架
+# 191. content n. 含量，容量，内容
+# 192. either a. & pron. 任何一个，各
+# 193. ok ad. & a. 对，好；全对
+# 194. space n. 空格键，空间
+# 195. editor n. 编辑程序
+# 196. exist vi. 存在，生存，有
+# 197. scope n. 范围，显示器
+# 198. paragraph n. 段(落)，节，短讯
+# 199. multi (词头)多
+# 200. clear v. 清除，弄干净
