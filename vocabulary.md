@@ -812,3 +812,168 @@ multi line 多行
 # 200. clear v. 清除，弄干净
 clear 清空屏幕
 还有cls
+
+
+# 201. exit n. & vi. 出口；退出
+exit the function
+
+# 202. report vt. & n. 报告，报表
+report the exception
+
+# 203. execution n. 执行
+exe
+
+# 204. backup n. 备份，后备，后援
+常见的缩写有bak
+
+# 205. version n. 版本
+sub version 就是svn
+
+# 206. find v. 寻找，发现
+linux的find命令
+
+# 207. pointer n. 指针，指示字
+value reference pointer
+
+
+# 208. subset n. 子集，子设备
+sub set
+
+# 209. keyboard n. 键盘
+About Keyboard Input
+[https://msdn.microsoft.com/en-us/library/windows/desktop/ms646267(v=vs.85).aspx](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646267(v=vs.85).aspx)
+
+
+# 210. full a. & ad. & n. 全(的)，满
+git clone
+Convert shallow clone to full clone
+[http://stackoverflow.com/questions/6802145/convert-shallow-clone-to-full-clone](http://stackoverflow.com/questions/6802145/convert-shallow-clone-to-full-clone)
+
+
+# 211. check v. 校对，栓查，核算
+check out
+git checkout
+
+# 212. should v. & aux. 应当，该
+单元测试的时候，我们喜欢把函数名叫做 should be zero
+
+# 213. single a. & n. 单个的；一个，单
+singleton
+单例模式
+
+# 214. positioning n. 定位
+上面的position
+
+# 215. provide v. 提供
+记得dubbo的provider和consumer吗
+
+# 216. title n. 题目，标题
+title
+
+# 217. expression n. 表达式
+express
+
+# 218. through prep. & ad. 通过，直通
+How to loop through a list of data on a worksheet by using macros in Excel 也有遍历的意思
+
+# 219. toggle n. & v. 触发器；系紧
+feature toggle特性开关
+
+# 220. code n. 码，代码，编码
+talk is cheap, show me the code
+
+# 221. such a. & pron. 这样的，如此
+suck as
+
+# 222. beginning n. 起点，初
+insert word at the beginning of multi-line
+
+# 223. guide n. 向导，指南，入门
+guidance
+
+# 224. tree n. 树，语法树
+B+ tree
+
+# 225. environment n. 环境
+test environment
+缩写是env
+
+# 226. but 但是，可是，除非，不过
+but
+
+# 227. device n. 设备，器件，装置
+用windows是不是有时候会看到unknown device？提示你装驱动
+
+# 228. highlight n. 增强亮度，提示区
+highlight 代码高亮
+
+# 229. call v. 调用，访问，呼叫
+RPC: Remote Procedure Call Protocol
+
+# 230. continue v. 连续，继续
+for while continue
+
+# 231. indicate vt. 指示，表示
+The frameworks also provide a way—usually through assert statements or method attributes—to indicate whether the test method has passed or failed
+
+
+# 232. until prep. 到…为止，直到
+看看while和do..while的区别。里边有提到until
+The while statement evaluates expression, which must return a boolean value. If the expression evaluates to true, the while statement executes the statement(s) in the while block. The while statement continues testing the expression and executing its block until the expression evaluates to false.
+
+
+# 233. begin v. 开始，着手，开端
+begin..
+
+# 234. place vt. 放，位，地点
+placement
+
+# 235. rename vt. 更名，改名
+linux 用 mv 来 rename
+
+# 236. swap v. 交换，调动
+linux内存管理，有提到swap。因为物理内存有限，内核会把冷数据放到磁盘里，需要用的时候，再从磁盘恢复到物理内存。
+
+# 237. work n. 工作
+nginx有个 worker process
+
+# 238. remain vi. 剩下，留下，仍然
+NBA的场边解说经常会说 2 minutes remain
+
+# 239. close v. & a. 关闭，闭合；紧密的
+close issue
+
+# 240. combination n. 结合，组合
+In a multiprocessing system, all CPUs may be equal, or some may be reserved for special purposes. A `combination` of hardware and operating system software design considerations determine the symmetry (or lack thereof) in a given system
+
+
+# 241. profile n. 简要，剖面，概貌
+github上有edit profile
+
+# 242. unless conj. 除非
+I want my dist target to run unless the junit.failure property is set to true.
+
+# 243. so pron. & conj. 如此，这样
+so, what's your point
+
+# 244. except prep. 除…之外，除非
+单元测试里的except
+
+# 245. turn v. & n. 转，转动；圈，匝
+turn on/off
+
+# 246. back n. 背面，反向，底座
+backend frontend
+
+# 247. sure a. & ad. 确实的；的确
+I'm not sure
+
+# 248. section n. 节，段，区域
+还记得linux进程的各种段吗？
+A process can be further divided into code and data sections.
+
+# 249. follow v. 跟随，跟踪
+twitter的follow unfollow
+
+# 250. split v. 分开，分离
+java string split
