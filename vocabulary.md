@@ -1134,3 +1134,105 @@ quick sort 快速排序
 
 # 300. once ad. & n. 只一次，一旦
 once again
+
+
+# 301. however conj. 然而，可是
+# 302. extend v. 扩充
+# 303. look v. 看，查看
+# 304. starting a. 起始的
+# 305. now ad. & n. 此刻，现在
+# 306. original n. & a. 原文；原(初)始的
+# 307. correspond vi. 通信(联系)
+# 308. property n. 性(质)，特征
+# 309. several a. & n. 若干个，几个
+# 310. learn v. 学习，训练
+# 311. cause n. 原因，理由
+# 312. bracket n. (方)括号，等级
+# 313. omit vt. 省略，删去，遗漏
+# 314. running a. 运行着的，游动的
+# 315. sub-directory n. 子目录
+# 316. edge n. 棱，边，边缘，界限
+# 317. form n. 格式，表格，方式
+# 318. instruction n. 指令，指导
+# 319. ascii n. 美国信息交换标准码
+# 320. below a. & prep. 下列的；低于
+# 321. standard n. 标准
+# 322. occurrence n. 出现，发生
+# 323. lock n. & v. 锁，封闭；自动跟踪
+# 324. append vt. 附加，增补
+# 325. destination n. 目的地，接收站
+# 326. password n. 口令，保密字
+# 327. point n. 点，小数点，句号
+# 328. variety n. 变化，种类，品种
+# 329. many a. & n. 许多，多数
+# 330. buffer n. 缓冲器
+# 331. useful a. 有用的
+# 332. object n. 对象，目标，物体
+# 333. again ad. 再，又，重新，也
+# 334. operating a. 操作的，控制的
+# 335. carry v. 进位，带
+# 336. update v. 更新，修改，校正
+# 337. moving n. & a. 活动的，自动的
+# 338. coprocessor n. 协同处理器
+# 339. overlay v. 覆盖，重叠
+# 340. practice n. 实习，实践
+# 341. navigation n. 导航
+# 342. automatically ad. 自动地，机械地
+# 343. total n. & v. 总数；总计
+# 344. previous a. 早先的，上述的
+# 345. software n. 软件
+# 346. shortcut n. 近路，捷径
+# 347. long a. 长的，远的
+# 348. unique a. 唯一的，独特的
+# 349. part n. 部分，零件
+# 350. updated a. 适时的，更新的
+# 351. internal a. 内部的
+# 352. fill v. 填充
+# 353. basic n. & a. 基本；基本的
+# 354. math n. 数学
+# 355. since prep. 自从…以来
+# 356. determine v. 确定
+# 357. making n. 制造，构造
+# 358. center n. 中心，中央
+# 359. already ad. 已经，早已
+# 360. keyword n. 关键字(词)
+# 361. action n. 操作，运算
+# 362. condition n. 条件，情况；vt. 调节
+# 363. quick a. & ad. 快速的，灵敏的
+# 364. assigned a. 指定的，赋值的
+# 365. give vt. 给出，赋予，发生
+# 366. large a. (巨)大的，大量的
+# 367. chapter n. 章，段
+# 368. computer n. 计算机
+# 369. complete v. & a. 完成；完整的
+# 370. past a. 过去的，结束的
+# 371. match v. 比较，匹配，符合
+# 372. recover v. 恢复，回收
+# 373. always ad. 总是，一直，始终
+# 374. require v. 需要，要求
+# 375. opening n. 打开，断路，孔
+# 376. network n. & vt. 网络；联网
+# 377. sign n. 符号，信号，记号
+# 378. release vt. & n. 释放，核发，版
+# 379. three a. & n. 三(的)
+# 380. recall vt. 撤消，复活，检索
+# 381. deletion n. 删去(部分)，删除
+# 382. fixed a. 固定的，不变的
+# 383. amount vt. & n. 总计；合计
+# 384. alias n. 别名，代号，标记
+# 385. quote n. & v. 引号；加引号
+# 386. correct a. & vt. 正确的；改正
+# 387. else ad. & conj. 否则，此外
+# 388. maximum n. & a. 最大(的)，最高
+# 389. under prep. 在…下面(之下)
+# 390. take v. 取，拿
+# 391. switching n. 开关，转接，交换
+# 392. element n. 元件，元素，码元
+# 393. modification n. 改变，修改
+# 394. modified a. 修改的，变更的
+# 395. input n. 输入，输入设备
+# 396. uppercase n. 大写字母
+# 397. plus prep. 加，加上，外加
+# 398. found v. 建立，创办
+# 399. debug vt. 调试
+# 400. force v. & n. 强制；压力，强度
