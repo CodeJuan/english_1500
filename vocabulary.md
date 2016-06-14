@@ -980,52 +980,157 @@ java string split
 
 
 # 251. need v. 必须，需要
+mongodb的一个报错
+`uncaught exception: getlasterror failed: { "errmsg" : "need to login", "ok" : 0 }`
+
 # 252. access n. 存取，选取，接近
+After that, I exit and run mongo again. And I don't need password to access it
+
 # 253. additional a. 附加的，辅助的
+Which additional course or skill is more useful and will act as a big plus point highlighting the resume
+
 # 254. cancel v. 删除，取消，作废
+弹出一个消息，有两个按钮cancel yes
+
 # 255. document n. 文献，资料，文件
+doc就是document的缩写
+
 # 256. case n. 情况，场合
+in this case:在这个场合
+in that case:（短语）若是那样的话 例：YOU don't like this place? In that case,why don't you leave?
+
 # 257. numeric n. & a. 数字的，分数
+
 # 258. go vi. 运行，达到
+编码规范里提到不准用goto
+
 # 259. load n. & v. 装入，负载，寄存
+Load balancing 负载均衡
+
 # 260. try n. (尝)试，试验
+try catch
+
 # 261. size n. 尺寸，大小，容量
+C++里sizeof，在编译期就计算出结果
+
 # 262. entire a. & n. 完全的；总体
+Deleting or removing entire data sets
+Load balancing for the entire data center
+
 # 263. leave v. 离开，留下
+在github上编辑文件的时候，如果你点关闭页面，就会提示，leave page
+
 # 264. history n. 历史
+CTRL+H  chrome看历史
+
 # 265. second n. & a. 秒，第二(的)
+English as a second language
+
 # 266. reflow v. & n. 回流，逆流
+workflow工作流
+
 # 267. output n. 输出，输出设备
+input output
+
 # 268. out n. & a. 输入，在外
+out of box 跳出你的思维局限
+
 # 269. both a. & ad. 两，双，都
+both of them
+
 # 270. install vt. 安装
+how to install jdk on ubuntu?
+
 # 271. source n. 源，电源，源点
+source code源代码，source insight一款著名编辑器
+
 # 272. way n. 路线，途径，状态
+this way
+way to explore
+
+
 # 273. assign vt. 赋值，指定，分派
+github上把某个issue指派给谁，就用的assign to
+
 # 274. support vt. 支援，支持，配套
+board support package 传说中的BSP
+
 # 275. specific a. 特殊的，具体的
+how to get specific character from string in java
+
 # 276. join v. & n. 连接，并(运算)
+left join
+
 # 277. expand v. 扩充，扩展，展开
++ - 展开，收起 expand collapse
+
 # 278. like a. 类似的，同样的
+模糊匹配，linke
+
 # 279. diskette n. 软磁盘，软盘片
+
+
 # 280. skip v. 跳跃(定位)，跳过
+安装软件的时候，可以点击下一步的按钮，也可以点击skip跳过
+
 # 281. application n. 应用
+APP
+
 # 282. confirmation n. 认可
+confirm
+
 # 283. whether conj. 无论，不管
+
+
 # 284. hold v. 保持
+hold the door
+打电话,hold on please
+
 # 285. click n. “卡搭”声，插销
+鼠标right click
+
 # 286. write v. 写，存入
+write stream
+
 # 287. byte n. (二进制的)字节
+8 bits = 1 byte
+
 # 288. abbreviate vt. 缩写，省略
+这个我不熟悉
+
 # 289. show v. 显示，呈现，出示
+show me the money
+talk is cheap, show me the code
+
 # 290. otherwise ad. & a. 另外
+
+
 # 291. working n. 工作，操作，作业
+worker
+
 # 292. delimiter n. 定界符，分界符
+linux cut里的-d
+
 # 293. location n. 定位，(存储器)单元
+location of node_modules
+
 # 294. perform v. 执行，完成
+perform task in background ios
+
 # 295. graphic n. & a. 图形；图形的
+有个开源画图软件教graphviz
+
 # 296. read v. 读，读阅
+read line
+
 # 297. confirm vt. 证实，确认
+confirmation
+
 # 298. sort v. 分类，排序
+quick sort 快速排序
+
 # 299. clause n. 条款，项目，子句
+这个我不熟悉
+
 # 300. once ad. & n. 只一次，一旦
+once again
