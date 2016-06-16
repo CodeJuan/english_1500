@@ -1137,41 +1137,123 @@ once again
 
 
 # 301. however conj. 然而，可是
+My code works however I still get an error
+
 # 302. extend v. 扩充
+java - Implements vs. Extends. When to use?
+
 # 303. look v. 看，查看
+look at
+
 # 304. starting a. 起始的
+start
+
 # 305. now ad. & n. 此刻，现在
+from now on
+
 # 306. original n. & a. 原文；原(初)始的
+git push origin
+
 # 307. correspond vi. 通信(联系)
+Cannot initialize Cluster. Please check your configuration for mapreduce.framework.name and the correspond server addresses.
+
 # 308. property n. 性(质)，特征
+右键-最下面的就是属性
+
 # 309. several a. & n. 若干个，几个
+more than two but not many.
+
 # 310. learn v. 学习，训练
+he conclusion is that either people are in a big rush to learn about programming
+
 # 311. cause n. 原因，理由
+国外社交网络上喜欢用cuz来作为缩写
+
 # 312. bracket n. (方)括号，等级
+小括号( )：parenthese，复数形式，单个括弧则是parenthesis  函数
+中括号(或方括号) [ ] ：square brackets  数组
+尖括号<> ：angle brackets  泛型
+大括号{ }：braces  代码块
+
 # 313. omit vt. 省略，删去，遗漏
+golang的分号是可以省略的，因为在编译的时候，会自动补上
+
 # 314. running a. 运行着的，游动的
+running man 邓超out
+
 # 315. sub-directory n. 子目录
+如果需要递归所有子目录，那么就要在命令后面加上-r
+
 # 316. edge n. 棱，边，边缘，界限
+edge，前端的常用概念
+
 # 317. form n. 格式，表格，方式
+form json提交信息到后端
+
 # 318. instruction n. 指令，指导
+还记得指令寄存器吗
+指令寄存器（IR，Instruction Register）。存放当前从主存储器读出的正在执行的一条指令。当执行一条指令时，先把它从内存取到数据寄存器（DR，Data Register）中，然后再传送至IR。
+
 # 319. ascii n. 美国信息交换标准码
+ascii码，比如空格是20，TAB是09
+
 # 320. below a. & prep. 下列的；低于
+How to show point value in below of chart?
+
 # 321. standard n. 标准
+standard output
+stdout stderr
+
 # 322. occurrence n. 出现，发生
+A finally block of code always executes, irrespective of occurrence of an Exception.
+
+
 # 323. lock n. & v. 锁，封闭；自动跟踪
+dead lock
+spin lock
+锁锁锁
+
 # 324. append vt. 附加，增补
+操作文件的时候，可以用append to
+
 # 325. destination n. 目的地，接收站
+就是突然联想到这个单词destiny 命运
+
 # 326. password n. 口令，保密字
+password 不解释
+
 # 327. point n. 点，小数点，句号
+power point  PPT
+
 # 328. variety n. 变化，种类，品种
+Most of the time Variety works just fine, but a few times I have noticed that my computer was consuming 100% of the CPU.
+
 # 329. many a. & n. 许多，多数
+many many many many
+
 # 330. buffer n. 缓冲器
+string buffer
+
 # 331. useful a. 有用的
+it's useful to do sth.
+
 # 332. object n. 对象，目标，物体
+oo，面向对象 object oriented
+没有对象，那就new一个吧
+
 # 333. again ad. 再，又，重新，也
+try again again
+
 # 334. operating a. 操作的，控制的
+operating system
+深入理解操作系统的书名里没有operating这个单词哟
+
 # 335. carry v. 进位，带
+carry out
+
 # 336. update v. 更新，修改，校正
+out of date了，就需要update
+
 # 337. moving n. & a. 活动的，自动的
 # 338. coprocessor n. 协同处理器
 # 339. overlay v. 覆盖，重叠
